@@ -14,7 +14,4 @@ The Dogg DAO ratio of DOGGER is always 1 DOGGER = 1/1000 bBADGER. DOGGER is alwa
 
 ## Deployments
 
-- NOT CORRECT UPDATE NEEDED BSC [`0x05CE68341714e3C2be4a3FCbF542352Fc285236F`](https://bscscan.com/address/0x05CE68341714e3C2be4a3FCbF542352Fc285236F)
-
-- NOT CORRECT UPDATE NEEDED Trade it on [Apeswap](https://info.apeswap.finance/pair/0x7f24df1a718af253105b6fce1287bf8839588524)
-
+- BSC [`0x0ecb544773D0497884BB62C9Ba713959fCbBdcE2`](https://bscscan.com/address/0x0ecb544773D0497884BB62C9Ba713959fCbBdcE2)
